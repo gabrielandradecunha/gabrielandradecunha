@@ -10,7 +10,7 @@
 
 | Área | Stack |
 |------|-----------------------------|
-| 💻 **Linguagens de Programação** | C, C++, Python, JavaScript, PHP, Shell Script |
+| 💻 **Linguagens de Programação** | C/C++, Python, JavaScript, PHP, Shell Script |
 | 📚 **Frameworks & Bibliotecas** | FastAPI, Laravel, Bootstrap, Express |
 | 🏗️ **Arquiteturas & Paradigmas** | POO, APIs Rest, MVC, Microserviços |
 | ⚙️ **Infraestrutura & DevOps** | Linux, Windows Server, Docker, Kubernetes, Jenkins, AWS |
