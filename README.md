@@ -13,7 +13,7 @@
 | 💻 **Linguagens de Programação** | C/C++, Python, JavaScript, PHP, Shell Script |
 | 📚 **Frameworks & Bibliotecas** | FastAPI, Laravel, Bootstrap, Express |
 | 🏗️ **Arquiteturas & Paradigmas** | POO, APIs Rest, MVC, Microserviços |
-| ⚙️ **Infraestrutura & DevOps** | Linux, Windows Server, Docker, Kubernetes, Jenkins, AWS |
+| ⚙️ **Infraestrutura & DevOps** | Linux, Windows Server, Docker, Kubernetes, Jenkins, AWS, Nginx |
 | 🗄️ **Bancos de Dados** | PostgreSQL, MySQL, SQLite |
 | 🗺️ **GIS** | OpenLayers, Geoserver |
 | 🔐 **Redes & Segurança** | Microsoft Active Directory, FortiGate Firewall |
