@@ -1,4 +1,4 @@
-# Eae 👋
+# Olá 👋
 ![6](https://github.com/user-attachments/assets/a06daa7c-d3ed-4520-9a25-8c3715ccabcc)
 
 - 🎓 Engenheiro da Computação (em formação)  
