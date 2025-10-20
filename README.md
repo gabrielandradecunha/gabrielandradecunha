@@ -1,9 +1,9 @@
-# Olá 👋
+# Eae 👋
 ![6](https://github.com/user-attachments/assets/a06daa7c-d3ed-4520-9a25-8c3715ccabcc)
 
-- 🎓 Engenheiro da Computação (Em formação)  
-- 🐧 Administrador de Sistemas  
-- 💻 Programador  
+- 🎓 Engenheiro da Computação (em formação)  
+- 🐧 Administrador de Sistemas e Entusiasta DevOps
+- 💻 Programador e Desenvolvedor Web 
  
 
 ---
