@@ -8,7 +8,7 @@
 ---
 | Area | Stack |
 |------|-----------------------------|
-| 💻 **Programming Languages** | PHP, Python, Type/JavaScript, Java, C, Bash |
+| 💻 **Programming Languages** | PHP, Python, Type/JavaScript, Java, C/C++, Bash |
 | 📚 **Frameworks & Libraries** | FastAPI, Laravel, Spring, Bootstrap, Express, React |
 | 🏗️ **Architectures & Paradigms** | OOP, REST APIs, MVC, Microservices |
 | ⚙️ **Infrastructure & DevOps** | Linux, Windows Server, Docker, Kubernetes, Jenkins, AWS, Nginx |
