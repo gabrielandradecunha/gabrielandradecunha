@@ -3,8 +3,15 @@
 
 - 🎓 Computer Engineering Student
 - 💻 Programmer and Web Developer  
-- 🐧 Systems Administrator and DevOps Enthusiast  
+- 🐧 Systems Administrator and DevOps Enthusiast
 
+---
+
+### 🎯 Main Focus
+- Backend Development (PHP, Java, Python, TypeScript)
+- Linux & DevOps (Linux, Docker, CI/CD, Cloud)
+- Distributed Systems & APIs
+  
 ---
 | Area | Stack |
 |------|-----------------------------|
