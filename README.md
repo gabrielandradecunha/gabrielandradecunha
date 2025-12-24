@@ -24,7 +24,3 @@
 | 🗺️ **GIS** | OpenLayers, GeoServer |
 | 🔐 **Networking & Security** | Microsoft Active Directory, FortiGate Firewall |
 | 🔌 **Microcontrollers & IoT** | ESP32, Arduino, MQTT Protocol, MQTT Broker, FreeRTOS |
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielandradecunha&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielandradecunha&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook,html,css)
-
