@@ -13,6 +13,7 @@
 - Distributed Systems & APIs
   
 ---
+
 | Area | Stack |
 |------|-----------------------------|
 | 💻 **Programming Languages** | Java, PHP, Typescript, Python, C/C++, Bash |
