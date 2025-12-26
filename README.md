@@ -4,23 +4,15 @@
 - 🎓 Computer Engineering Student
 - 💻 Programmer and Web Developer  
 - 🐧 Systems Administrator and DevOps Enthusiast
-
----
-
-### 🎯 Main Focus
-- Backend Development (PHP, Java, Python, TypeScript)
-- Linux & DevOps (Linux, Docker, CI/CD, Cloud)
-- Distributed Systems & APIs
   
 ---
 
 | Area | Stack |
 |------|-----------------------------|
-| 💻 **Programming Languages** | Java, PHP, Typescript, Python, C/C++, Bash |
-| 📚 **Frameworks & Libraries** | FastAPI, Laravel, Spring, Bootstrap, Express, React |
+| 💻 **Programming Languages** | Java, PHP, Typescript, Python, C/C++, Bash, SQL |
+| 📚 **Frameworks & Libraries** | Laravel, Spring, Express, React, FastAPI |
 | 🏗️ **Architectures & Paradigms** | OOP, REST APIs, MVC, Microservices |
-| ⚙️ **Infrastructure & DevOps** | Linux, Windows Server, Docker, Kubernetes, Jenkins, AWS, Nginx |
+| ⚙️ **Infrastructure & DevOps** | Linux, Docker, Kubernetes, Jenkins, AWS, Nginx |
 | 🗄️ **Databases** | PostgreSQL, MySQL, SQLite |
-| 🗺️ **GIS** | OpenLayers, GeoServer |
-| 🔐 **Networking & Security** | Microsoft Active Directory, FortiGate Firewall |
-| 🔌 **Microcontrollers & IoT** | ESP32, Arduino, MQTT Protocol, MQTT Broker, FreeRTOS |
+| 🔐 **Networking & Security** | MS AD, FortiGate |
+| 🔌 **Microcontrollers & IoT** | ESP32, Arduino, MQTT, FreeRTOS |
