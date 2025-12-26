@@ -1,11 +1,8 @@
 # Hello! 👋🤘
-![6](https://github.com/user-attachments/assets/a06daa7c-d3ed-4520-9a25-8c3715ccabcc)
 
 - 🎓 Computer Engineering Student
 - 💻 Programmer and Web Developer  
 - 🐧 Systems Administrator and DevOps Enthusiast
-  
----
 
 | Area | Stack |
 |------|-----------------------------|
