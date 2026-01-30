@@ -1,6 +1,6 @@
 # Hello! 👋🤘
 
-- 🎓 Computer Engineering Student
+- 🎓 Computer Engineering Student on Federal Institute of Mato Grosso
 - 💻 Programmer and Web Developer  
 - 🐧 Systems Administrator and DevOps Enthusiast
 
